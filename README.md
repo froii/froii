@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Oleksa Tyshchenko
 
-<!--
-**froii/froii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 **Explore my full CV, case studies, and experience at: [oleksatyshchenko.com](https://www.oleksatyshchenko.com)**
 
-Here are some ideas to get you started:
+I'm a **Full Stack Engineer** specializing in React, Node.js, and AI integrations. With 10+ years of experience, I build low-code platforms, back-office systems, and AI-powered products. I specialize in owning architecture and performance on large codebases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Work Preferences
+* 📍 **Location:** Remote / Open to relocation
+* 📄 **Contract Types:** B2B (UA FOP) / EOR (e.g., Deel)
+* 🕒 **Availability:** Full-time or part-time contracts
+
+## 🛠 Tech Stack & Expertise
+* **Frontend:** React, Next.js, TypeScript, GraphQL, Apollo Client
+* **Backend:** Node.js, PostgreSQL, NestJS, Express, REST APIs
+* **AI & LLM:** RAG, Prompt Engineering, AI Agents, OpenRouter APIs
+* **Tooling:** Docker, AWS, GitHub Actions, Jest, Figma
+
+## 📈 GitHub Stats
+![Oleksa's GitHub stats](https://github-readme-stats.vercel.app/api?username=froii&show_icons=true&theme=transparent)
+
+## 📫 Let's Connect
+* 💼 **LinkedIn:** [linkedin.com/in/oleksa-t-90a050a8](https://www.linkedin.com/in/oleksa-t-90a050a8/)
+* 📧 **Email:** [dev@oleksatyshchenko.com](mailto:dev@oleksatyshchenko.com)
