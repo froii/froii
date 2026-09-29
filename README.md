@@ -15,9 +15,6 @@ I'm a **Full Stack Engineer** specializing in React, Node.js, and AI integration
 * **AI & LLM:** RAG, Prompt Engineering, AI Agents, OpenRouter APIs
 * **Tooling:** Docker, AWS, GitHub Actions, Jest, Figma
 
-## 📈 GitHub Stats
-![Oleksa's GitHub stats](https://github-readme-stats.vercel.app/api?username=froii&show_icons=true&theme=transparent)
-
 ## 📫 Let's Connect
 * 💼 **LinkedIn:** [linkedin.com/in/oleksa-t-90a050a8](https://www.linkedin.com/in/oleksa-t-90a050a8/)
 * 📧 **Email:** [dev@oleksatyshchenko.com](mailto:dev@oleksatyshchenko.com)
